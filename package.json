@@ -27,6 +27,6 @@
     "ts-node": "^10.9.2",
     "tsc-watch": "^6.2.0",
     "typedoc": "^0.25.12",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.3"
   }
 }

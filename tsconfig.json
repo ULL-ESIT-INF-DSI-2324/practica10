@@ -8,16 +8,16 @@
       "./dist"
     ],
     "compilerOptions": {
-      "target": "es2022",
-      "module": "commonjs",
-      "rootDir": "./src",
-      "declaration": true,
-      "noImplicitAny":true,
-      "strictNullChecks":true,
-      "noImplicitReturns":true,
-      "outDir": "./dist"
+        "target": "es2022",
+        "module": "Node16",
+        "rootDir": "./src",
+        "declaration": true,
+        "noImplicitAny":true,
+        "strictNullChecks":true,
+        "noImplicitReturns":true,
+        "outDir": "./dist",
+        "strict": true,
+      }
     }
-  }
- 
- 
+   
  
